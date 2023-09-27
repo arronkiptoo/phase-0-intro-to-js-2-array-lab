@@ -7,7 +7,7 @@
 - Practice using _nondestructive_ methods to manipulate arrays
 
 ## Introduction
-
+w
 We've learned about how arrays work and about the array methods built in to
 JavaScript that we can use to manipulate them. Now it's time to practice what
 we've learned.
